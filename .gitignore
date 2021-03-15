@@ -1,0 +1,12 @@
+__pycache__/
+.vscode/
+venv/
+venv_w/
+venv_l/
+cookie.txt
+cookies.txt
+img.jpg
+proxies.txt
+settings.json
+test.py
+test.proxies.txt
